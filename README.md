@@ -7,9 +7,9 @@
 ## support@yourapp.com
 
 ### Please include the following information in your email:
-• Your full name
-• Your username or email associated with the app
-• A subject line with the text "Data Deletion Request"
+- Your full name
+- Your username or email associated with the app
+- A subject line with the text "Data Deletion Request"
 
 ## Processing Time
 ### Once we receive your data deletion request, we will process it within 30 days. You will receive an email confirmation once your data has been deleted from our servers.
